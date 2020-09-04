@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/sailor95/CSS_jons#readme",
   "devDependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   }
 }
